@@ -1,0 +1,8 @@
+# Ignore encryption key
+secret.key
+
+# Ignore uploaded files
+uploads/
+
+# Ignore Python cache
+__pycache__/
